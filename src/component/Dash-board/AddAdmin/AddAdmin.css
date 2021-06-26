@@ -1,0 +1,30 @@
+.admin{
+    margin: 0px auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.form{
+    width: 100%;
+    display: block;
+    margin: 0px auto;
+   
+}
+.admin .form button{
+    margin: 0px auto;
+}
+.form input{
+    width: 70%;
+    height: 60px;
+    margin: 10px auto;
+}
+.form .description input{
+    height: 120px;
+}
+
+.admin button:hover{
+    background-color: #F8BC38;
+    border: 1px solid #FED55F;
+    color: rgb(247, 239, 239);
+}

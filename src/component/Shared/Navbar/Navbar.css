@@ -1,0 +1,14 @@
+ul li{
+    
+    padding: 10px;
+    font-size: 22px;
+}
+.NavStyle img{
+    width: 100px;
+    padding: 0px;
+    margin: 0px;
+}
+.NavStyle{
+    padding-top: 0px;
+    margin-top: 0px;
+}

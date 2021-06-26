@@ -1,0 +1,27 @@
+.footercol {
+    padding: 15px;
+    text-align: center;
+    margin-top: 40px;
+}
+.footercol h4{
+    padding: 10px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-size: 25px;
+}
+.footercol img{
+    width: 200px;
+    padding: 5px;
+}
+.socialMedia .icon{
+    height: 43px;
+    width: 43px;
+    color: #25AFF3;
+    border-radius: 60%;
+    border: 1px solid #25AFF3;
+    padding: 9px;
+}
+.socialMedia .activeIcon{
+    background-color: #25AFF3 ;
+    color:rgb(240, 236, 236);
+}

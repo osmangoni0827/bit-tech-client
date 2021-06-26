@@ -1,0 +1,32 @@
+.loginStyle{
+    margin-top: 5%;
+    width: 40%;
+    height: 470px;
+    padding: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    display: block;
+    /* margin-top: 1; */
+}
+.loginImage img{
+   width: 200px;
+    margin: 0px auto;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+.loginStyle h5{
+    margin-top: 15px;
+    padding-top: 15px;
+}
+
+.loginStyle input{
+ 
+    margin: 0px auto;
+    width: 70%;
+    border: none;
+    border-bottom: 2px solid black;
+}
+.loginStyle button{
+    margin-top: 10px;
+    width: 200px;
+}

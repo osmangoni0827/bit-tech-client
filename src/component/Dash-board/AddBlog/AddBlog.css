@@ -1,0 +1,31 @@
+.addblog{
+    margin: 0px auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+h2{
+    font-size: 25px;
+}
+.form{
+    width: 100%;
+    display: block;
+    margin: 0px auto;
+   padding-bottom: 20px
+}
+.addblog .form button{
+    margin: 0px auto;
+}
+.form input{
+    width: 70%;
+    height: 60px;
+    margin: 10px auto;
+}
+.form .description input{
+    height: 100px;
+}
+
+.contact button:hover{
+    background-color: rgb(20, 20, 20);
+    color: rgb(247, 239, 239);
+}

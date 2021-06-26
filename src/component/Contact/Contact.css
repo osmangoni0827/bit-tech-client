@@ -1,0 +1,91 @@
+.contact-Page{
+  width: 100%;
+}
+.contact-Page .contact-cards{
+    border-radius: 10px;
+    height: 450px;
+    background-color: #eff4f7;
+    
+}
+.contact-form{
+    /* width: 80%; */
+     padding: 5%;
+     height: 450px;
+     margin-bottom: 5%;
+     color: rgb(15, 15, 15);
+     margin-left: 0px;
+ }
+ @media screen and (max-width: 600px) {
+    .contact-Information{
+        width: 312px;
+    }
+     .contact-form{
+       width: 312px;
+     }
+   }
+.contact-Information{
+    margin: 2px;
+    padding: 15px;
+    height: 446px;
+    /* margin-bottom: 5%; */
+    color: white;
+    margin-right: 0px;
+    padding-bottom: 10px;
+    background-color: #24534F;
+    border-radius: 3px;
+}
+.contact-Information h3{
+    margin-top: 10px;
+    font-size: 34px;
+}
+.contact-Information ul{
+    margin-top: 30px;
+    padding: 5px;
+}
+.contact-Information ul li{
+    padding: 15px;
+    font-weight: 500;
+}
+.contact-Information ul li p{
+    margin: 0px;
+    padding-left: 5px;
+}
+.Link-icon a{
+    padding: 10px;
+}
+ .contact-Page h2{
+     /* width: 300px; */
+     /* padding-top: 2%;
+     margin: 4%; */
+     font-size: 50px;
+     font-weight: 500;
+     text-align: center;
+     color: rgb(36, 83, 79);
+     margin: 50px auto;
+     width: 300px;
+     padding-bottom: 7px;
+     border-bottom: 5px solid #0f3d52;
+     font-family: 'Roboto Slab', serif;
+ }
+ .formclass{
+     /* margin-top: 10%; */
+ }
+ .formclass button{
+     width: 160px;
+     font-size: 20px;
+     padding: 3px;
+     display: block;
+     margin: 0px auto;
+     background-color: #24534F;
+     color: white;
+     font-weight: 500;
+ }
+ .formclass input{
+     height: 50px;
+     font-size: 15px;
+ }
+ .formclass .massage input{
+     height: 100px;
+     margin-bottom: 2%;
+ }
+ 
