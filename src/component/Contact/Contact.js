@@ -5,7 +5,7 @@ import Navbar from '../Shared/Navbar/Navbar';
 import {faEnvelope,faPhone, faMapMarkerAlt} from '@fortawesome/free-solid-svg-icons';
 import { faFacebook,faTwitter, faLinkedinIn, faYoutube} from '@fortawesome/free-brands-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-
+import Footer from '../Footer/Footer/Footer';
 const Contact = () => {
     const emailSend = (e) => {
         e.preventDefault();
@@ -98,6 +98,7 @@ const Contact = () => {
             </div>
             </div>
         </div>
+        <Footer></Footer>
        </div>
     );
 };

@@ -31,7 +31,7 @@ const ServiceTable = ({blog}) => {
                         <td className='pt-3'>{index + 1}</td>
                         <td className='pt-3'>{blog._id}</td>
                         <td className='pt-3'>{blog.title}</td>
-                        <td><button onClick={()=>HandleDeleteService(blog._id)}>Delete</button></td>
+                        <td><button className="btn btn-danger" onClick={()=>HandleDeleteService(blog._id)}>Delete</button></td>
                     </tr>
                     )
                 }
