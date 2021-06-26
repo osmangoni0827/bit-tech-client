@@ -13,8 +13,6 @@ const Blog = () => {
     
     return (
         <section className='blog py-5'>
-            <h1>Our Blog</h1>
-
             <div className='container'>
                 <div className='row '>
                 {
